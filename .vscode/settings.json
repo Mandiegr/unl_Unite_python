@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "pymysql"
+    ],
+
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.pyc": {"when": "$(basename).py"},
+        "**/__pycache__": true,
+        "**/*.pytest_cache": true,
+
+   
+    }
+}
